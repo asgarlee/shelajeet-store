@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Shilajeet Store E-commerce Website
+
+A modern, responsive e-commerce platform built with Next.js 14 for selling premium Shilajeet products.
+
+## Features
+
+- Responsive, mobile-friendly design
+- Product catalog with high-quality images
+- Shopping cart functionality with localStorage persistence
+- Checkout and payment process
+- Order confirmation and tracking
+- Custom animations and transitions
+- Purple and gold themed UI
+
+## Tech Stack
+
+- [Next.js 14](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Product Images
+
+The store features high-quality product images sourced from the internet for demonstration purposes.
 
 ## Getting Started
 
@@ -16,21 +38,30 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Building for Production
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+To build the application for production:
 
-## Learn More
+```bash
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Project Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `/src/app/components` - Reusable React components
+- `/src/app/utils` - Utility functions
+- `/public/images` - Static images including product photos
+- `/src/app/(pages)` - Next.js page components
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Color Scheme
 
-## Deploy on Vercel
+- Primary: Purple (#8a2be2)
+- Secondary: Gold (#ffcc00)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Responsive Design
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The website is fully responsive and works on mobile, tablet, and desktop devices.
+
+## License
+
+This project is meant for demonstration purposes.
