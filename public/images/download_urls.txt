@@ -1,0 +1,23 @@
+# Shilajeet Product Image URLs for Download
+# These are royalty-free images for commercial use
+
+# Image 1: Shilajeet Resin in Glass Jar
+https://images.unsplash.com/photo-1618681317438-a8dd7da06cd4
+
+# Image 2: Shilajeet Powder
+https://images.unsplash.com/photo-1598450046651-1fb38cee5d54
+
+# Image 3: Shilajeet Capsules
+https://images.unsplash.com/photo-1603398938378-e54eab446dde
+
+# Image 4: Shilajeet Liquid
+https://images.unsplash.com/photo-1607003632225-47b907a0284b
+
+# Image 5: Shilajeet Tablets
+https://images.unsplash.com/photo-1584308074727-e93642f0b9be
+
+# Alternative image sources (if above are unavailable)
+# You can also use images from:
+# - Pexels.com (search for "herbal supplements")
+# - Pixabay.com (search for "natural remedy")
+# - Unsplash.com (search for "herbal medicine")
